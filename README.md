@@ -25,6 +25,6 @@ pip3 install turicreate
 #OPtional  
 
 
-#Create Virtual Environment
+#Create Virtual Environment using virtualenv
 #CAN Install jupyter and turi there.
 
